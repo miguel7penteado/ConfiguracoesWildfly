@@ -365,6 +365,10 @@ EOF
 
 # 2 - Criação de Usuário da interface Web
 
+```bash
+$JBOSS_HOME/bin/add-user.sh -u 'administrador' -p 'minha_senha'
+```
+
 # 3 - Criação de Fontes de Dados em Bancos de Dados Postgres
 
 ```bash
